@@ -1,0 +1,2 @@
+#!/bin/bash
+chmode 774 hello
