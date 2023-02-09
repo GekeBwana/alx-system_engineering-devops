@@ -1,2 +1,2 @@
-#!/bash/bin
-username=$(id -un)
+#!/bin/bash
+cat /usr
