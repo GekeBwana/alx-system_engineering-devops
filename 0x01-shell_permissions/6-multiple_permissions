@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode 774 hello
+chmod og+x,u+r
