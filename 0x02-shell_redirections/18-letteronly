@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -E "A" /etc/ssh/sshd_config
+grep -E "A" /etc/ssh/sshd_config | wc -l
