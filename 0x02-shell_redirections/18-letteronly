@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -E "A" /etc/ssh/sshd_config | wc -l
+grep -E ^"[[:alpha:]]" /etc/ssh/sshd_config
