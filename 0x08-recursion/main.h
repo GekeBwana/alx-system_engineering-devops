@@ -1,6 +1,12 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+/**
+ * File: main.h
+ * Auth: Geke Bwana
+ * Desc: Header file contains prototypes of all functions in recursion task
+ *
+ */
 void _puts_recursion(char *s);
 int _putchar(char c);
 void _print_rev_recursion(char *s);
